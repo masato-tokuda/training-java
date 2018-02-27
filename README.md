@@ -17,9 +17,9 @@
 	2. HiroshiYuki/source/ 配下の該当フォルダに回答を追加
 	3. PRを作る
 		- PRのbaseは必ず、forkした後の自分のリポジトリのmasterに設定する
-	4. slackにて担当レビュアーにレビュー依頼をだす
+	4. slackにて担当レビュアーにメンション付きで、レビュー依頼をだす
 		- この時、作成したPRのリンクも一緒に送信する
-		- 例) 11-1の実装が終わりましたので、レビューお願いします。 https://github.com/TaroBizreach/training-java/pull/x
+		- 例) @erika.ando 11-1の実装が終わりましたので、レビューお願いします。 https://github.com/TaroBizreach/training-java/pull/x
 	5. レビューが合格になるまで、上記の手順を繰り返していく
 ## 前提
 	基本的にgithubの使い方に関しては各自で調べる事。どうしてもわからなかった時だけslackで質問する。
